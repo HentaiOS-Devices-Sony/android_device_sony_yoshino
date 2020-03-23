@@ -19,10 +19,6 @@ PRODUCT_PACKAGES += \
     libipanat \
     liboffloadhal
 
-# DISPLAY
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service-sdm
-
 # MODEM
 PRODUCT_PACKAGES += \
     init.sony.modem.sh
